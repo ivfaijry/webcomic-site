@@ -10,6 +10,7 @@
 {% set base = site.fullUrl if isBuild else "" %}
 {% include 'layouts/head.njk' %}
 <div class="wrapper">
+  {% include 'layouts/logo.njk' %}
   <header>
     <div class="caption" id="meta">
       <h1>{{ title }}</h1>

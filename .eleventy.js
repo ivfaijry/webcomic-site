@@ -10,6 +10,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias('main', 'layouts/main.njk');
 
   eleventyConfig.addPassthroughCopy('src/images');
+  eleventyConfig.addPassthroughCopy('src/resources');
 
   eleventyConfig.addFilter('dateFilter', dateFilter);
   eleventyConfig.addFilter('w3cDateFilter', w3cDateFilter);

@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Monster Friend Fore";
+  src: url("/resources/MonsterFriendFore.otf") format("opentype");
+}
+
 html {
   text-align: center;
   --color-light: #fff;
@@ -82,6 +87,7 @@ nav ul a span {
 
 h1 {
   font-size: 1.5em;
+  font-family: "Monster Friend Fore", sans-serif;
 }
 
 .with-js [role="dialog"] {
@@ -151,4 +157,31 @@ button::-moz-focus-inner {
     --color-dark: #000;
     --color-light: #fff;
   }
+}
+
+.logo-section {
+  margin: 0 auto;
+  width: 630px;
+}
+
+.page {
+  max-width: 800px;
+  font-size: 1.3em;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.page h1 {
+  /* text-align: center; */
+  margin: 20px 0 20px 0;
+}
+
+.page img {
+  max-width: initial;
+  max-height: initial;
+}
+
+img.float-left {
+  float: left;
+  margin: 30px 30px 30px 0;
 }
