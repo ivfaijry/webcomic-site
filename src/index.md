@@ -10,7 +10,7 @@ Welcome to Crystaline the webtoon series that focuses on a group of figtional lg
 
 <h1 style="color:#cfbcee;">About the author</h1>
 
-I am Anna, I am a 17 year odl artist. I go by they/them pronouns, I am non binary and  bisexual. I wanted to create a bcomic series that would make other people in the lgbtq community feel comfortable and like their stories and experiences are being told. I wanted to also create a diverse group of characters for everyoen to connect and relate to. I hope you cna enjoy this series as much as I enjoy creating it!
+I am Anna, I am a 17 year old artist. I go by they/them pronouns, I am non binary and  bisexual. I wanted to create a bcomic series that would make other people in the lgbtq community feel comfortable and like their stories and experiences are being told. I wanted to also create a diverse group of characters for everyoen to connect and relate to. I hope you cna enjoy this series as much as I enjoy creating it!
 
 <h1 style="clear:left;color:#fcb3e5;text-align:center;">Meet the characters</h1>
 
