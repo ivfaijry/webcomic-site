@@ -6,4 +6,6 @@ layout: 'layouts/about.njk'
 
 <a href="/posts/kaori-1">Chapter one: Kaori</a>
 
-Chapter two: coming soon
+<a href="/posts/zoom-call">Chapter twp: zoom call</a>
+
+Chapter three: coming soon
